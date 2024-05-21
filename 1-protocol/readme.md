@@ -5,10 +5,12 @@
 4. 如何做pulldown
 5. 冷冻电镜冻样
 6. 各种GPCR cell assay
-7. 细胞系knockin，knockout
-8. 小鼠knockin，knockout
-9. 如何用FACS检测膜蛋白表达量
-10. nanobody筛选，nanobody定向进化
+7. 如何做nanodisc
+8. 如何做liposome
+9. 细胞系knockin，knockout
+10. 小鼠knockin，knockout
+11. 如何用FACS检测膜蛋白表达量
+12. nanobody筛选，nanobody定向进化
 
 
 
