@@ -11,3 +11,6 @@ We have many assay to detect GPCR activation.
 10. β-arrestin recruitment assay (NanoBit based)
 
 usually used positive control: DRD1-Gs-dopamine, β2AR-Gs-adrenaline, DRD2-Gi/o-dopamine
+
+
+这里只是一个大纲，欢迎大家补充。
