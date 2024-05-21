@@ -5,6 +5,6 @@
 3. neuropeptide库，由安晓宇建立。
 4. Human Endogenous metabolite compound library (HY-L030, MCE)
 5. MCE Lipid library (MCE)
-
+6. CRISPR gRNA 库，张隽和高展建立
 
 这里只是一个大纲，欢迎大家补充。
