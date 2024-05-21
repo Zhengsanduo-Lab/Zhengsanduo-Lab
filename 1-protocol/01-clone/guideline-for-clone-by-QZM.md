@@ -9,6 +9,12 @@
 9. For Nanobody expression in E.coli periplasm, use pelB signal peptide (MKYLLPTAAAGLLLLAAQPAMA).
 10. For GPCR expression, use HA-Flag tag (MKTIIALSYIFCLVFADYKDDDDK).
 
-
-
-这里只是一个大纲，欢迎大家补充。
+How to make a clone:
+1. insert fragment > 100 bp, use Gibson assemble
+2. insert fragment < 100 bp, but > 40 bp, use annealing
+3. insert fragment <20 bp, use quickchange
+4. T4 ligase is less efficient than Gibson assemble
+5. gene can come from cDNA, vector or sythesized fragment.
+6. KOD-plus-neo works best, if not, add 1 ul DMSO to 50 ul PCR system.
+7. for insertion of many fargments, use overlap PCR (or gibson).
+8. always sequencing vectors from others!
