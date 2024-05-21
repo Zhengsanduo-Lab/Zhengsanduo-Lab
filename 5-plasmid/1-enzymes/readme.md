@@ -1,4 +1,4 @@
-常用蛋白
+常用蛋白：
 
 pET28a-His-Sumo-3C
 pET29b-ctULP1-10His
