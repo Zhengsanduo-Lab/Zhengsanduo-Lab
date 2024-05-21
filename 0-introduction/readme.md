@@ -8,5 +8,4 @@ What you should know before experiment
 5. 每周要运动。
 6. 有些仪器和试剂很贵，要小心使用。比如玻璃dounce，比如抗体。
 
-Creator : 邱泽铭
-Date : 20240521
+这里只是一个大纲，欢迎大家补充。
