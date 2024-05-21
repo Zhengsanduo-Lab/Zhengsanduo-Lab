@@ -1,3 +1,5 @@
+What you should know before experiment
+
 实验可以做不出来，但一定要保证安全。
 1. 离心要配平。配平到 ±0.01 g。
 2. 有毒试剂不要乱放，β-ME在通风橱里用，核酸染料只能在核酸区用。
