@@ -8,3 +8,7 @@
 8. For secretion in Expi293 cell, use IL10 signal peptide (MHSSALLCCLVLLTGVRA).
 9. For Nanobody expression in E.coli periplasm, use pelB signal peptide (MKYLLPTAAAGLLLLAAQPAMA).
 10. For GPCR expression, use HA-Flag tag (MKTIIALSYIFCLVFADYKDDDDK).
+
+
+
+这里只是一个大纲，欢迎大家补充。
